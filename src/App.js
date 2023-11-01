@@ -1,7 +1,9 @@
 import './App.css';
 function App() {
 return (
+
 <div className="table1">
+   <h2 className = "h2">list of people</h2>
     <table>
         <thead>
             <tr>
