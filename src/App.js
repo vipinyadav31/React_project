@@ -4,6 +4,7 @@ return (
 
 <div className="table1">
    <h2 className = "h2">list of people</h2>
+   <h2>hellow world</h2>
     <table>
         <thead>
             <tr>
